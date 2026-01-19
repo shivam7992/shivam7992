@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam7992
 - 👀 I’m interested in coding
-- 🌱 I’m currently studying BCA
+- 🌱 I’m currently studying MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
